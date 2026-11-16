@@ -1,0 +1,31 @@
+{
+  "name": "Chiqui's Cookbook — The Kitchen Journal",
+  "short_name": "Chiqui's Cookbook",
+  "description": "A personal collection of flavours, memories and recipes.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#f9f6f1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
